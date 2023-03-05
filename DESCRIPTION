@@ -1,0 +1,11 @@
+Package: deft
+Type: Package
+Title: Create and Manipulate data.frames in C
+Version: 0.1.0
+Author: mikefc
+Maintainer: mikefc <mikefc@coolbutuseless.com>
+Description: Create and manipulate data.frames in C.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
